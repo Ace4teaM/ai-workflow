@@ -1,0 +1,5 @@
+chien
+puce
+souris
+tortue
+éléphant
