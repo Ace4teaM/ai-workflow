@@ -89,12 +89,12 @@ Les block de code sont interprète comme du code python
 
 ### Jalon  1
 
-| Job                  | Acteur     | Skills       | Outils     | Contexte             | Etape                                                        | Produit                                                      | Jalon | Itération | Validation                        |
-| -------------------- | ---------- | ------------ | ---------- | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | --------- | --------------------------------- |
-| contexte générale    | Scénariste | story writer | write_text |                      | Décrire l'environnement, l'époque du scénario                | 1 Texte de 200 mots dans le fichier contexte.md              | *     | 1         | `fileExists("contexte.md")`       |
-| histoire générale    | Scénariste | story writer | write_text | contexte.md          | Décrire le Début, la Fin et la monté en puissance (milieu) du scénario | 3 Paragraphes de 200 mots chacun (Début, Fin, Milieu) dans le fichier story.md | **    | 1         | `fileExists("story.md")`          |
-| personnage principal | Scénariste | story writer | write_text | contexte.md story.md | Décrire le personnage et sa personnalité                     | 1 Texte de 200 mots dans le fichier main_character.md        | **    | 1         | `fileExists("main_character.md")` |
-| niveau               | Scénariste | story writer | write_text | contexte.md story.md | Décrire pièges, environnement, objectif                      | Décrire 10 pièges, 1 environnement, 1 objectif dans le fichier `level_{i}.md` | ***   | `{niv}`   | `fileExists(f"level_{i}.md")`     |
+| Job                  | Acteur     | Skills       | Outils     | Contexte              | Etape                                                        | Produit                                                      | Jalon | Itération | Validation                        |
+| -------------------- | ---------- | ------------ | ---------- | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | --------- | --------------------------------- |
+| contexte générale    | Scénariste | story writer | write_text |                       | Décrire l'environnement, l'époque du scénario                | 1 Texte de 200 mots dans le fichier contexte.md              | *     | 1         | `fileExists("contexte.md")`       |
+| histoire générale    | Scénariste | story writer | write_text | contexte.md           | Décrire le Début, la Fin et la monté en puissance (milieu) du scénario | 3 Paragraphes de 200 mots chacun (Début, Fin, Milieu) dans le fichier story.md | **    | 1         | `fileExists("story.md")`          |
+| personnage principal | Scénariste | story writer | write_text | contexte.md, story.md | Décrire le personnage et sa personnalité                     | 1 Texte de 200 mots dans le fichier main_character.md        | **    | 1         | `fileExists("main_character.md")` |
+| niveau               | Scénariste | story writer | write_text | contexte.md, story.md | Décrire pièges, environnement, objectif                      | Décrire 10 pièges, 1 environnement, 1 objectif dans le fichier `level_{i}.md` | ***   | `{niv}`   | `fileExists(f"level_{i}.md")`     |
 
 ### Jalon  2
 

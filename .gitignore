@@ -1,0 +1,4 @@
+.dist
+.venv
+vector_db
+__pycache__

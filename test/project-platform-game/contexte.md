@@ -1,0 +1,9 @@
+### Environnement et époque du scénario
+
+Le scénario se déroule dans un futur proche, vers la fin du XXIe siècle, plus précisément en **2087**. Le monde a subi des transformations majeures, tant sur le plan technologique que sociétal, en réponse aux défis climatiques, énergétiques et politiques du début du siècle. Les villes, désormais ultra-connectées, sont devenues des mégapoles verticales où la nature et l’architecture high-tech coexistent. Les gratte-ciel, recouverts de végétation et équipés de panneaux solaires transparents, dominent les paysages urbains, tandis que les rues, autrefois saturées de véhicules, sont désormais réservées aux piétons et aux transports autonomes.
+
+L’époque est marquée par une **quatrième révolution industrielle**, où l’intelligence artificielle, la biotechnologie et les nanotechnologies ont fusionné pour redéfinir les limites de l’humain. Les frontières entre le physique, le numérique et le biologique s’estompent : les implants neuronaux permettent de communiquer par la pensée, les corps peuvent être augmentés pour résister aux conditions extrêmes, et les villes sont gérées par des IA centralisées, garantissant une efficacité optimale mais soulevant des questions éthiques.
+
+Sur le plan géopolitique, le monde est divisé entre des **blocs régionaux** collaborant pour gérer les ressources devenues rares, comme l’eau potable et les terres arables. Les océans, acidifiés et montants, ont englouti des régions côtières, provoquant des migrations massives et des tensions. Malgré ces défis, l’humanité a réussi à éviter l’effondrement total grâce à des innovations radicales, mais au prix d’une surveillance accrue et d’une perte progressive des libertés individuelles.
+
+C’est dans ce contexte que se déroule notre histoire : un monde à la fois fascinant et dystopique, où le progrès technologique offre des solutions inespérées tout en créant de nouvelles formes de contrôle et d’inégalités.

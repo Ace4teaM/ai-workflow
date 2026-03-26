@@ -1,6 +1,6 @@
 from langchain.tools import tool
 
-@tool("write_text")
+@tool("write_to_file")
 def write(filename:str, text: str):
     """Ecrit un texte dans un fichier
 

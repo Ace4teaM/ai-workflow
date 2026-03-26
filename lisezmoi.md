@@ -4,6 +4,8 @@
 
 > Lorsqu'in créer un Workflow on décrit de façon large et détaillé les connaissances métiers d'une équipe/entreprise. La richesse est dans la pertinence de rédaction des Skills et de la description des Jobs
 
+> En résumé : Décrire le processus et créer des produits, ajuster les produits passer à l'étape suivante. Reprendre le processus à l'étape X et reformuler le besoin.
+
 
 
 Comment intégrer l'IA du flux de développement ?

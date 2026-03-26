@@ -1,6 +1,6 @@
 from langchain.tools import tool
 
-@tool("read_text")
+@tool("read_file")
 def read(filename:str):
     """Lit un fichier texte
 
