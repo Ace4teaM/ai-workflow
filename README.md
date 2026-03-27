@@ -54,13 +54,13 @@ Pour restaurer l'environnement:
 Ouvrir la console **Conda** dans le dossier contenant `environment.yaml` et exécuter la commande suivante:
 
 ```shell
-conda env create -f environment.yaml -n mon_env
+conda env create -f environment.yaml -n ai-workflow-test
 ```
 
 puis, activer l'environnement
 
 ```
-conda activate mon_env
+conda activate ai-workflow-test
 ```
 
 # Tests
